@@ -6,6 +6,10 @@
     --dark: #111111;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 .fw-medium {
     font-weight: 600 !important;
 }
